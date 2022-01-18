@@ -1,0 +1,2 @@
+time: 2021-10-20 21:50:21.722279 The character Dennis has a sword.
+time: 2021-10-20 21:50:38.565403 The character Francis has no sword.
